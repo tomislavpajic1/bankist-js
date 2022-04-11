@@ -1,5 +1,7 @@
 # Bankist App
 
+https://bankist.netlify.app/
+
 Imitation of a basic internet banking application
 Login Details: (user: js | pin: 1111) & (user: jd | pin: 2222)
 
